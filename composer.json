@@ -1,0 +1,17 @@
+{
+    "name": "pmvc-plugin/flickr",
+    "description": "PMVC flickr lib",
+    "type": "library",
+    "keywords": ["flickr", "pmvc", "plug-in"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hill",
+            "email": "hill@kimo.com"
+        }
+    ],
+    "require": {
+        "pmvc/pmvc": "*"
+    },
+    "minimum-stability": "dev"
+}
